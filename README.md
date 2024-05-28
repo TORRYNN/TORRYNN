@@ -1,7 +1,7 @@
 <p><img  width="100%" height="250px"  src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif" alt="torrynn" /></p>
 <p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=torrynn&icon=0&color=1" alt="Visit Counter">
+  <a href="https://komarev.com/ghpvc/?username=TORRYNN&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=TORRYNN&color=blue" alt="Profile Views Counter">
   </a>
 </p>
 <h1 align="center">
