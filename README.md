@@ -82,17 +82,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/TORRYNN/miranda_website_clone" title="miranda_website_clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=miranda_website_clone&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/TORRYNN/My_First_Landing_Page" title="My_First_Landing_Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=My_First_Landing_Page&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/TORRYNN/miranda_website_clone" title="miranda_website_clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=miranda_website_clone&theme=algolia&border_color=white&border_radius=10"></a>
+  <a align="right" href="https://github.com/TORRYNN/My_First_Landing_Page" title="My_First_Landing_Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=My_First_Landing_Page&theme=algolia&border_color=white&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/TORRYNN/Java_Learning" title="Java_Learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=Java_Learning&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/TORRYNN/FrontEnd_Learning" title="FrontEnd_Learning"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=FrontEnd_Learning&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/TORRYNN/Java_Learning" title="Java_Learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=Java_Learning&theme=algolia&border_color=white&border_radius=10"></a>
+  <a align="right" href="https://github.com/TORRYNN/FrontEnd_Learning" title="FrontEnd_Learning"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=FrontEnd_Learning&theme=algolia&border_color=white&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <!-- <div width="100%" align="center">
-  <a align="left" href="https://github.com/TORRYNN/TORRYNN" title="TORRYNN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=TORRYNN&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/TORRYNN/TORRYNN" title="TORRYNN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=TORRYNN&theme=algolia&border_color=white&border_radius=10"></a>
   
 </div> -->
 <br/>
@@ -103,5 +103,5 @@
 
 <div align="center"> 
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TORRYNN&bg_color=050f2c&color=ffffff&line=00aeff&point=dedede&area=true&border_color=61dafb&radius=10" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TORRYNN&bg_color=050f2c&color=ffffff&line=00aeff&point=dedede&area=true&border_color=white&radius=10" alt="GitHub Activity Graph">
 </div>
