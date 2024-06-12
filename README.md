@@ -10,7 +10,6 @@
   </a>
 </h1>
 
-
  <h2 align="center">💫 About Me 💫</h2>
 <h5 align="center">
 <a href="https://www.naukri.com/code360/profile/prathamchauhan" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" height="30" width="40" /></a>
