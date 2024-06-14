@@ -4,6 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=TORRYNN&color=blue" alt="Profile Views Counter">
   </a>
 </p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img left="center"  src="https://readme-typing-svg.demolab.com/?lines=Hello,+There+👋!;This+is+Pratham+Chauhan;A+passionate+full+Stack;developer+from+India;Nice+to+meet+you!&center=true&size=26" alt="Typing SVG">
@@ -104,3 +105,4 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TORRYNN&bg_color=050f2c&color=ffffff&line=00aeff&point=dedede&area=true&border_color=white&radius=10" alt="GitHub Activity Graph">
 </div>
+
