@@ -1,21 +1,20 @@
-<p><img  width="100%" height="250px"  src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif" alt="torrynn" /></p>
+<p><img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" /><img  width="100%" height="250px"  src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif" alt="torrynn" /></p>
 <p align="right">
   <a href="https://komarev.com/ghpvc/?username=TORRYNN&color=blue">
     <img src="https://komarev.com/ghpvc/?username=TORRYNN&color=blue" alt="Profile Views Counter">
   </a>
 </p>
-
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img left="center"  src="https://readme-typing-svg.demolab.com/?lines=Hello,+There+👋!;This+is+Pratham+Chauhan;A+passionate+full+Stack;developer+from+India;Nice+to+meet+you!&center=true&size=26" alt="Typing SVG">
   </a>
-</h1>
+</p>
 
- <h2 align="center">💫 About Me 💫</h2>
-<h5 align="center">
-<a href="https://www.naukri.com/code360/profile/prathamchauhan" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" height="30" width="40" /></a>
+ <h2 align="center"><img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />💫 About Me 💫<a href="https://www.naukri.com/code360/profile/prathamchauhan" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratham-chauhan-265a8b15a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-chauhan-265a8b15a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/torryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="torryn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/torryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="torryn" height="30" width="40" /></a></h2>
+<h5 align="center">
+
 </h5>
 <div >
   <div  align= "right">
@@ -34,7 +33,7 @@
 
 
 
-<h2 align="center">💻 Tech Stack 💻 </h2>
+<h2 align="center"><img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />💻 Tech Stack 💻 </h2>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -65,7 +64,7 @@
 </div>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"><img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />⚡ Stats ⚡</h2>
 <br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TORRYNN&show_icons=true&locale=en&theme=algolia" alt="TORRYNN" />
@@ -73,13 +72,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TORRYNN&theme=algolia" alt="TORRYNN" />
 </div>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center"><img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />🏆 GitHub Trophies 🏆</h2>
 <br>
 <div  align="center"> 
   <img  src="https://github-profile-trophy.vercel.app/?username=torrynn&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
 </div>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center"><img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/TORRYNN/miranda_website_clone" title="miranda_website_clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=miranda_website_clone&theme=algolia&border_color=white&border_radius=10"></a>
@@ -98,11 +97,14 @@
 <br/>
 <h4 align="center">
   <a href="https://github.com/TORRYNN?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-  
+  <img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />
 </h4>
 
 <div align="center"> 
-  <br>
+
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TORRYNN&bg_color=050f2c&color=ffffff&line=00aeff&point=dedede&area=true&border_color=white&radius=10" alt="GitHub Activity Graph">
 </div>
 
+
+<img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />
