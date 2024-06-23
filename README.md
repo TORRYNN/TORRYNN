@@ -102,9 +102,14 @@
 
 <div align="center"> 
 
-  
+   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TORRYNN&bg_color=050f2c&color=ffffff&line=00aeff&point=dedede&area=true&border_color=white&radius=10" alt="GitHub Activity Graph">
+  <img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />
+  <img  width="100%" alt="snake eating my contributions" src="https://github.com/TORRYNN/TORRYNN/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
+
+
 
 
 <img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />
