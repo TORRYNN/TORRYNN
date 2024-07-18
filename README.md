@@ -9,7 +9,6 @@
     <img left="center"  src="https://readme-typing-svg.demolab.com/?lines=Hello,+There+👋!;This+is+Pratham+Chauhan;A+passionate+full+Stack;developer+from+India;Nice+to+meet+you!&center=true&size=26" alt="Typing SVG">
   </a>
 </p>
-
  <h2 align="center"><img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" />💫 About Me 💫<a href="https://www.naukri.com/code360/profile/prathamchauhan" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratham-chauhan-265a8b15a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-chauhan-265a8b15a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/torryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="torryn" height="30" width="40" /></a></h2>
