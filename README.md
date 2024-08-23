@@ -3,7 +3,7 @@
   <a href="https://komarev.com/ghpvc/?username=TORRYNN&color=blue">
     <img src="https://komarev.com/ghpvc/?username=TORRYNN&color=blue" alt="Profile Views Counter">
   </a>
-</p>
+</p>  
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img left="center"  src="https://readme-typing-svg.demolab.com/?lines=Hello,+There+👋!;This+is+Pratham+Chauhan;A+passionate+front+end;developer+from+India;Nice+to+meet+you!&center=true&size=26" alt="Typing SVG">
