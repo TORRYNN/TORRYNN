@@ -6,8 +6,6 @@
 </p>  
 
 
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img left="center"  src="https://readme-typing-svg.demolab.com/?lines=Hello,+There+👋!;This+is+Pratham+Chauhan;A+passionate+front+end;developer+from+India;Nice+to+meet+you!&center=true&size=26" alt="Typing SVG">
