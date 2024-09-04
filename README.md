@@ -95,6 +95,10 @@
 <!-- <div width="100%" align="center">
   <a align="left" href="https://github.com/TORRYNN/TORRYNN" title="TORRYNN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=TORRYNN&theme=algolia&border_color=white&border_radius=10"></a>
 
+<!-- <div width="100%" align="center">
+  <a align="left" href="https://github.com/TORRYNN/TORRYNN" title="TORRYNN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=TORRYNN&theme=algolia&border_color=white&border_radius=10"></a>
+<!-- <div width="100%" align="center">
+  <a align="left" href="https://github.com/TORRYNN/TORRYNN" title="TORRYNN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=TORRYNN&theme=algolia&border_color=white&border_radius=10"></a>
   
 </div> -->
 <br/>
