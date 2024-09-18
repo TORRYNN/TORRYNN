@@ -6,6 +6,8 @@
 </p>  
 
 
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img left="center"  src="https://readme-typing-svg.demolab.com/?lines=Hello,+There+👋!;This+is+Pratham+Chauhan;A+passionate+front+end;developer+from+India;Nice+to+meet+you!&center=true&size=26" alt="Typing SVG">
@@ -102,6 +104,9 @@
   <a align="left" href="https://github.com/TORRYNN/TORRYNN" title="TORRYNN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TORRYNN&repo=TORRYNN&theme=algolia&border_color=white&border_radius=10"></a>
   
 </div> -->
+
+
+
 <br/>
 <h4 align="center">
   <a href="https://github.com/TORRYNN?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
